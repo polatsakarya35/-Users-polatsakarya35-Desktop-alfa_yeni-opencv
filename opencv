@@ -1,0 +1,7 @@
+<script>start("/Users/polatsakarya35/Desktop/alfa_yeni/opencv/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("mediapipe_env","mediapipe_env",1,224,"224 B",1761471480,"26.10.2025 12:38:00");</script>
+<script>addRow("hand_counter_ai.py","hand_counter_ai.py",0,18097,"17.7 kB",1761504634,"26.10.2025 21:50:34");</script>
+<script>addRow("hand_landmarker.tflite","hand_landmarker.tflite",0,7819105,"7.5 MB",1761471118,"26.10.2025 12:31:58");</script>
+<script>addRow("LICENSE","LICENSE",0,1199,"1.2 kB",1761504991,"26.10.2025 21:56:31");</script>
+<script>addRow("README.md","README.md",0,4774,"4.7 kB",1761504991,"26.10.2025 21:56:31");</script>
