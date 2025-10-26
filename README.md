@@ -1,0 +1,2 @@
+# -Users-polatsakarya35-Desktop-alfa_yeni-opencv
+🤖 AI Hand Tracking &amp; Finger Counting (0-10) using MediaPipe + OpenCV  Real-time finger counting system with beautiful UI design. Features single/dual hand support and Mac M4 compatibility.  🚀 Quick Start: cd opencv &amp;&amp; source mediapipe_env/bin/activate &amp;&amp; arch -x86_64 python3 hand_counter_ai.py  © 2025 Polat Sakarya - All Rights Reserved
